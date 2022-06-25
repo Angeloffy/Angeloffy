@@ -4,7 +4,7 @@
   <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 </div>
 
-<h3 align="center">Computer science student, IT news writer from Russia 🇷🇺</h3>
+<h3 align="center">Computer science student, Programmer from Russia 🇷🇺</h3>
 <div id="badges" align="center">
   <a href="https://t.me/angeloffy">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="LinkedIn Badge"/>

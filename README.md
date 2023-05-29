@@ -23,9 +23,6 @@
  
  <hr style="height:1px; color:black; background-color:gray"> 
   
- <!--START_SECTION:time-->
-<!--END_SECTION:time-->
-  
 <!--START_SECTION:waka-->
 
 ```text
@@ -42,4 +39,5 @@ Other        39 mins         -------------------------   00.63 %
 
 <!--END_SECTION:waka-->
   
-  ![Jokes Card](https://readme-jokes.vercel.app/api)
+ <!--START_SECTION:waka_2-->
+<!--END_SECTION:waka_2-->

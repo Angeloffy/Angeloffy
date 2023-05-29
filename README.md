@@ -20,6 +20,8 @@
       <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Twitter Badge"/>
     </a>
 </div>
+ 
+ <hr style="height:1px; color:black; background-color:gray"> 
   
 <!--START_SECTION:waka-->
 

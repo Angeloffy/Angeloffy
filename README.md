@@ -40,4 +40,19 @@ Other        39 mins         -------------------------   00.63 %
 <!--END_SECTION:waka-->
   
  <!--START_SECTION:waka_2-->
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-13.4%20thousand%20lines%20of%20code-blue)
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Moscow
+
+🔥 Editors: 
+VS Code                  1 hr 14 mins        █████████████████░░░░░░░░   69.48 % 
+Chrome                   32 mins             ████████░░░░░░░░░░░░░░░░░   30.05 % 
+PyCharm                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
+WebStorm                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
+```
+
+
 <!--END_SECTION:waka_2-->

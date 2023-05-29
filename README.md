@@ -24,36 +24,12 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-104%20hrs%2022%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-12-blue)
-
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                13 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 % 
-🌆 Daytime                91 commits          ████████░░░░░░░░░░░░░░░░░   30.95 % 
-🌃 Evening                127 commits         ███████████░░░░░░░░░░░░░░   43.20 % 
-🌙 Night                  63 commits          █████░░░░░░░░░░░░░░░░░░░░   21.43 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   70 commits          ██████░░░░░░░░░░░░░░░░░░░   23.81 % 
-Tuesday                  68 commits          ██████░░░░░░░░░░░░░░░░░░░   23.13 % 
-Wednesday                23 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.82 % 
-Thursday                 50 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.01 % 
-Friday                   26 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.84 % 
-Saturday                 28 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
-Sunday                   29 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.86 % 
-```
-
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-13.4%20thousand%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 🕑︎ Time Zone: Europe/Moscow
-
-💬 Programming Languages: 
-No Activity Tracked This Week
 
 🔥 Editors: 
 No Activity Tracked This Week
@@ -62,22 +38,9 @@ No Activity Tracked This Week
 No Activity Tracked This Week
 ```
 
-**I Mostly Code in Python** 
-
-```text
-Python                   19 repos            ████████████████████░░░░░   79.17 % 
-C#                       2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
-Jupyter Notebook         1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
-HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
-TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
-```
-
-
-
 **Timeline**
 
 ![Lines of Code chart](https://raw.githubusercontent.com/Angeloffy/Angeloffy/main/assets/bar_graph.png)
 
 
- Last Updated on 29/05/2023 16:57:37 UTC
 <!--END_SECTION:waka-->

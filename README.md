@@ -41,3 +41,5 @@ Other        39 mins         -------------------------   00.63 %
 ```
 
 <!--END_SECTION:waka-->
+  
+  ![Jokes Card](https://readme-jokes.vercel.app/api)

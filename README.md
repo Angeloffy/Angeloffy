@@ -34,11 +34,10 @@
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-Python                   18 mins             █████████████████████████   99.77 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  18 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 

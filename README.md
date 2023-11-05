@@ -34,11 +34,10 @@
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-Batchfile                7 mins              ███████████████████░░░░░░   77.67 % 
-Lua                      2 mins              ██████░░░░░░░░░░░░░░░░░░░   22.33 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Notepad++                9 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 

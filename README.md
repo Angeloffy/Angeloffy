@@ -24,7 +24,7 @@
  <hr style="height:1px; color:black; background-color:gray"> 
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-234%20hrs%2045%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-235%20hrs%2016%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-37.0%20thousand%20lines%20of%20code-blue)
 
@@ -34,10 +34,11 @@
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   4 mins              ███████████████████████░░   93.27 % 
+Markdown                 0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   06.73 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+PyCharm                  4 mins              █████████████████████████   100.00 % 
 ```
 
 

@@ -24,7 +24,7 @@
  <hr style="height:1px; color:black; background-color:gray"> 
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-262%20hrs%2037%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-262%20hrs%2038%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-38.1%20thousand%20lines%20of%20code-blue)
 
@@ -36,7 +36,7 @@
 💬 Programming Languages: 
 Python                   15 hrs 8 mins       █████████████████████░░░░   85.42 % 
 Bash                     48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 % 
-Text                     35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.32 % 
+Text                     35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.31 % 
 .env file                25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.41 % 
 Docker                   21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.02 % 
 

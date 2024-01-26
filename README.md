@@ -24,9 +24,9 @@
  <hr style="height:1px; color:black; background-color:gray"> 
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-281%20hrs%2015%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-284%20hrs%2010%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-67.9%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-68.2%20thousand%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -34,10 +34,16 @@
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+YAML                     44 mins             ██████████░░░░░░░░░░░░░░░   41.54 % 
+Docker                   26 mins             ██████░░░░░░░░░░░░░░░░░░░   25.36 % 
+Python                   13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.57 % 
+Git Config               8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.23 % 
+JSON                     7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.98 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+PyCharm                  45 mins             ███████████░░░░░░░░░░░░░░   42.43 % 
+WebStorm                 44 mins             ██████████░░░░░░░░░░░░░░░   41.90 % 
+VS Code                  16 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.67 % 
 ```
 
 

@@ -24,7 +24,27 @@
  <hr style="height:1px; color:black; background-color:gray"> 
   
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-371%20hrs%202%20mins-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-70.5%20thousand%20lines%20of%20code-blue)
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Moscow
+
+💬 Programming Languages: 
+Python                   19 hrs 9 mins       ███████████████████░░░░░░   76.62 % 
+SQL                      3 hrs 13 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.89 % 
+HTML                     1 hr 52 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.52 % 
+Bash                     18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.26 % 
+Other                    16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
+
+🔥 Editors: 
+PyCharm                  14 hrs 5 mins       ██████████████░░░░░░░░░░░   56.38 % 
+VS Code                  7 hrs 39 mins       ████████░░░░░░░░░░░░░░░░░   30.65 % 
+DataGrip                 3 hrs 14 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.98 % 
+```
 
 
 <!--END_SECTION:waka-->

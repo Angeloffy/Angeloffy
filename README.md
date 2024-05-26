@@ -186,6 +186,28 @@ Welcome to my Github page. I am Mikhail and here you can find information about 
 <details>
 <summary>This Week</summary>
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-502%20hrs%2045%20mins-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-85.5%20thousand%20lines%20of%20code-blue)
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Moscow
+
+💬 Programming Languages: 
+Python                   6 hrs 28 mins       ████████████████████░░░░░   79.25 % 
+Markdown                 25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.20 % 
+GitIgnore file           22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
+Text                     21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 % 
+YAML                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.34 % 
+
+🔥 Editors: 
+PyCharm                  7 hrs 17 mins       ██████████████████████░░░   89.17 % 
+VS Code                  33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.84 % 
+DataGrip                 19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 % 
+```
+
 
 <!--END_SECTION:waka-->
 </details>

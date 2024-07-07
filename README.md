@@ -192,14 +192,10 @@ Welcome to my Github page. I am Mikhail and here you can find information about 
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-Python                   1 hr 54 mins        ████████████████████████░   96.51 % 
-TOML                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.12 % 
-Text                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
-GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
-Requirements.txt         0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-PyCharm                  1 hr 58 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 

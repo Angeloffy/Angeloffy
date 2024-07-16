@@ -192,11 +192,10 @@ Welcome to my Github page. I am Mikhail and here you can find information about 
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-Python                   22 mins             █████████████████████████   98.13 % 
-HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.87 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  22 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 

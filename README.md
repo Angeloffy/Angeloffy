@@ -186,6 +186,22 @@ Welcome to my Github page. I am Mikhail and here you can find information about 
 <details>
 <summary>This Week</summary>
 <!--START_SECTION:waka-->
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Moscow
+
+💬 Programming Languages: 
+JavaScript               21 hrs 24 mins      ██████████████████████░░░   89.71 % 
+Python                   1 hr 59 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.35 % 
+HTML                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
+JSON                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
+CSS                      7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
+
+🔥 Editors: 
+VS Code                  23 hrs 52 mins      █████████████████████████   100.00 % 
+```
+
 
 <!--END_SECTION:waka-->
 </details>

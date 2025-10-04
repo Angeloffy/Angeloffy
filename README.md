@@ -186,6 +186,18 @@ Welcome to my Github page. I am Mikhail and here you can find information about 
 <details>
 <summary>This Week</summary>
 <!--START_SECTION:waka-->
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Moscow
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+```
+
 
 <!--END_SECTION:waka-->
 </details>

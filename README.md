@@ -192,16 +192,16 @@ Welcome to my Github page. I am Mikhail and here you can find information about 
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-JavaScript               11 hrs 32 mins      ██████████████░░░░░░░░░░░   56.79 % 
-Python                   7 hrs 30 mins       █████████░░░░░░░░░░░░░░░░   36.91 % 
-YAML                     1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.59 % 
-Bash                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+JavaScript               12 hrs 9 mins       ██████████████░░░░░░░░░░░   57.15 % 
+Python                   8 hrs 5 mins        ██████████░░░░░░░░░░░░░░░   38.09 % 
+YAML                     56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 % 
+Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+TOML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 
 🔥 Editors: 
-VS Code                  16 hrs 38 mins      ████████████████████░░░░░   81.84 % 
-Claude Code              3 hrs 28 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.06 % 
-Unknown Editor           13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
+VS Code                  16 hrs 1 min        ███████████████████░░░░░░   75.40 % 
+Claude Code              5 hrs               ██████░░░░░░░░░░░░░░░░░░░   23.55 % 
+Unknown Editor           13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
 ```
 
 

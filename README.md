@@ -38,6 +38,19 @@
 <summary>Эта неделя по WakaTime</summary>
 
 <!--START_SECTION:waka-->
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Moscow
+
+💬 Programming Languages: 
+JavaScript               15 hrs 36 mins      █████████████░░░░░░░░░░░░   52.44 % 
+Python                   9 hrs 16 mins       ████████░░░░░░░░░░░░░░░░░   31.14 % 
+YAML                     1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 % 
+Bash                     1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 % 
+Git Config               33 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
+```
+
 
 <!--END_SECTION:waka-->
 

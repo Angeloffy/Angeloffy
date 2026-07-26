@@ -44,11 +44,11 @@
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-JavaScript               5 hrs 28 mins       █████████░░░░░░░░░░░░░░░░   34.24 % 
-Other                    3 hrs 17 mins       █████░░░░░░░░░░░░░░░░░░░░   20.63 % 
-Python                   2 hrs 28 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.50 % 
-Bash                     1 hr 11 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.45 % 
-YAML                     1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.91 % 
+JavaScript               5 hrs 28 mins       █████████░░░░░░░░░░░░░░░░   34.69 % 
+Other                    3 hrs 15 mins       █████░░░░░░░░░░░░░░░░░░░░   20.64 % 
+Python                   2 hrs 28 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.70 % 
+YAML                     1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.00 % 
+Bash                     1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.72 % 
 ```
 
 

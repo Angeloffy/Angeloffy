@@ -38,7 +38,7 @@
 <summary>Эта неделя по WakaTime</summary>
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-113%20hrs%2053%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-113%20hrs%2057%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -46,9 +46,9 @@
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-JavaScript               15 hrs 7 mins       ████████████████░░░░░░░░░   64.11 % 
-Python                   6 hrs 42 mins       ███████░░░░░░░░░░░░░░░░░░   28.43 % 
-Markdown                 49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 % 
+JavaScript               15 hrs 7 mins       ████████████████░░░░░░░░░   63.94 % 
+Python                   6 hrs 46 mins       ███████░░░░░░░░░░░░░░░░░░   28.62 % 
+Markdown                 49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 % 
 Bash                     14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
 JSON                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
 ```
@@ -56,22 +56,22 @@ JSON                     10 mins             ░░░░░░░░░░░�
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 19 hrs 36 mins (83.15%)
+⏱ AI Coding Time: 19 hrs 40 mins (83.2%)
 
 ✍️ 10,197 lines written by AI, 844 lines written by hand (92.36% AI-written)
 
-🔤 297,511,221 Input Tokens, 1,328,357 Output Tokens
+🔤 297,816,641 Input Tokens, 1,330,120 Output Tokens
 
-💵 $912.46 Estimated AI Cost This Week
+💵 $913.40 Estimated AI Cost This Week
 
-🧠 70 AI Sessions, 228 AI Prompts
+🧠 71 AI Sessions, 230 AI Prompts
 
 Sonnet                   12,261 lines        █████████████████████████   100.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 92.36% of written lines came from AI
-📄 Detailed Prompter — average 542 characters per prompt
+📄 Detailed Prompter — average 587 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
 🚀 High AI Trust — 12.68% of changed lines were hand-edited
 ```

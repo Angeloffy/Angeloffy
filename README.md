@@ -46,32 +46,32 @@
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-JavaScript               14 hrs 28 mins      ██████████████████░░░░░░░   71.37 % 
-Python                   3 hrs 39 mins       █████░░░░░░░░░░░░░░░░░░░░   18.01 % 
-CSS                      49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 % 
-Bash                     42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 % 
-Other                    28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.34 % 
+JavaScript               14 hrs 28 mins      ██████████████████░░░░░░░   71.63 % 
+Python                   3 hrs 39 mins       █████░░░░░░░░░░░░░░░░░░░░   18.08 % 
+CSS                      49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 % 
+Bash                     42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 % 
+Other                    24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.99 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 16 hrs 11 mins (79.8%)
+⏱ AI Coding Time: 16 hrs 7 mins (79.72%)
 
 ✍️ 8,664 lines written by AI, 2,871 lines written by hand (75.11% AI-written)
 
-🔤 5,984,331 Input Tokens, 710,391 Output Tokens
+🔤 5,915,001 Input Tokens, 705,369 Output Tokens
 
-💵 $154.21 Estimated AI Cost This Week
+💵 $153.56 Estimated AI Cost This Week
 
-🧠 15 AI Sessions, 256 AI Prompts
+🧠 13 AI Sessions, 248 AI Prompts
 
 GPT                      9,898 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 75.11% of written lines came from AI
-📄 Detailed Prompter — average 1,288 characters per prompt
-🔁 Iterative Prompter — average 17 prompts per session
+📄 Detailed Prompter — average 1,155 characters per prompt
+🔁 Iterative Prompter — average 19 prompts per session
 🚀 High AI Trust — 28.77% of changed lines were hand-edited
 ```
 

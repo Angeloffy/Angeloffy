@@ -46,34 +46,34 @@
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-JavaScript               11 hrs 19 mins      █████████████░░░░░░░░░░░░   53.80 % 
-Python                   7 hrs 28 mins       █████████░░░░░░░░░░░░░░░░   35.54 % 
-HTML                     38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.06 % 
-YAML                     24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.94 % 
-Other                    23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
+JavaScript               12 hrs 2 mins       ██████████████░░░░░░░░░░░   57.73 % 
+Python                   7 hrs 5 mins        ████████░░░░░░░░░░░░░░░░░   33.99 % 
+HTML                     28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.25 % 
+YAML                     24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.95 % 
+Other                    16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 18 hrs 15 mins (86.78%)
+⏱ AI Coding Time: 17 hrs 58 mins (86.13%)
 
-✍️ 8,870 lines written by AI, 1,144 lines written by hand (88.58% AI-written)
+✍️ 7,368 lines written by AI, 1,213 lines written by hand (85.86% AI-written)
 
-🔤 10,208,080 Input Tokens, 881,117 Output Tokens
+🔤 9,754,631 Input Tokens, 792,125 Output Tokens
 
-💵 $160.12 Estimated AI Cost This Week
+💵 $152.60 Estimated AI Cost This Week
 
-🧠 26 AI Sessions, 186 AI Prompts
+🧠 26 AI Sessions, 191 AI Prompts
 
-GPT                      10,241 lines        █████████████████████████   100.00 % 
+GPT                      7,985 lines         █████████████████████████   100.00 % 
 Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 88.58% of written lines came from AI
-📚 Verbose Prompter — average 14,809 characters per prompt
+🤖 AI-Driven — 85.86% of written lines came from AI
+📚 Verbose Prompter — average 9,659 characters per prompt
 🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 12.67% of changed lines were hand-edited
+🚀 High AI Trust — 16.5% of changed lines were hand-edited
 ```
 
 

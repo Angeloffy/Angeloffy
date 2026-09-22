@@ -46,33 +46,33 @@
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-JavaScript               5 hrs 12 mins       ███████████████░░░░░░░░░░   61.85 % 
-Python                   2 hrs 10 mins       ██████░░░░░░░░░░░░░░░░░░░   25.84 % 
-HTML                     27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.46 % 
-Diff                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 % 
-JSON                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
+JavaScript               2 hrs 15 mins       ███████████████░░░░░░░░░░   61.78 % 
+Python                   51 mins             ██████░░░░░░░░░░░░░░░░░░░   23.29 % 
+Diff                     18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.37 % 
+JSON                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 % 
+Other                    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.97 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 hrs 27 mins (88.44%)
+⏱ AI Coding Time: 3 hrs 4 mins (84.16%)
 
-✍️ 2,585 lines written by AI, 335 lines written by hand (88.53% AI-written)
+✍️ 1,002 lines written by AI, 88 lines written by hand (91.93% AI-written)
 
-🔤 4,828,482 Input Tokens, 400,951 Output Tokens
+🔤 2,095,067 Input Tokens, 228,379 Output Tokens
 
-💵 $78.61 Estimated AI Cost This Week
+💵 $32.59 Estimated AI Cost This Week
 
-🧠 13 AI Sessions, 86 AI Prompts
+🧠 10 AI Sessions, 54 AI Prompts
 
-GPT                      2,941 lines         █████████████████████████   100.00 % 
+GPT                      1,212 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 88.53% of written lines came from AI
-📚 Verbose Prompter — average 9,609 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 15.1% of changed lines were hand-edited
+🤖 AI-Driven — 91.93% of written lines came from AI
+📚 Verbose Prompter — average 14,919 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 11.34% of changed lines were hand-edited
 ```
 
 

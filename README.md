@@ -46,33 +46,33 @@
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-JavaScript               2 hrs 15 mins       ███████████████░░░░░░░░░░   61.78 % 
-Python                   51 mins             ██████░░░░░░░░░░░░░░░░░░░   23.29 % 
-Diff                     18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.37 % 
-JSON                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 % 
-Other                    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.97 % 
+JavaScript               45 mins             ████████████░░░░░░░░░░░░░   46.41 % 
+Python                   24 mins             ██████░░░░░░░░░░░░░░░░░░░   25.20 % 
+Diff                     18 mins             █████░░░░░░░░░░░░░░░░░░░░   18.89 % 
+JSON                     8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.75 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 4 mins (84.16%)
+⏱ AI Coding Time: 1 hr 31 mins (93.91%)
 
-✍️ 1,002 lines written by AI, 88 lines written by hand (91.93% AI-written)
+✍️ 541 lines written by AI, 1 lines written by hand (99.82% AI-written)
 
-🔤 2,095,067 Input Tokens, 228,379 Output Tokens
+🔤 1,095,950 Input Tokens, 146,369 Output Tokens
 
-💵 $32.59 Estimated AI Cost This Week
+💵 $20.03 Estimated AI Cost This Week
 
-🧠 10 AI Sessions, 54 AI Prompts
+🧠 6 AI Sessions, 25 AI Prompts
 
-GPT                      1,212 lines         █████████████████████████   100.00 % 
+GPT                      626 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 91.93% of written lines came from AI
-📚 Verbose Prompter — average 14,919 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 11.34% of changed lines were hand-edited
+🤖 AI-Driven — 99.82% of written lines came from AI
+📚 Verbose Prompter — average 9,410 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 6.71% of changed lines were hand-edited
 ```
 
 

@@ -46,33 +46,33 @@
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-JavaScript               45 mins             ████████████░░░░░░░░░░░░░   46.41 % 
-Python                   24 mins             ██████░░░░░░░░░░░░░░░░░░░   25.20 % 
-Diff                     18 mins             █████░░░░░░░░░░░░░░░░░░░░   18.89 % 
-JSON                     8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.75 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
+JavaScript               2 hrs 42 mins       █████████████████░░░░░░░░   69.33 % 
+Python                   1 hr 11 mins        ████████░░░░░░░░░░░░░░░░░   30.39 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 31 mins (93.91%)
+⏱ AI Coding Time: 3 hrs 4 mins (79.07%)
 
-✍️ 541 lines written by AI, 1 lines written by hand (99.82% AI-written)
+✍️ 1,324 lines written by AI, 88 lines written by hand (93.77% AI-written)
 
-🔤 1,095,950 Input Tokens, 146,369 Output Tokens
+🔤 1,035,604 Input Tokens, 138,050 Output Tokens
 
-💵 $20.03 Estimated AI Cost This Week
+💵 $20.25 Estimated AI Cost This Week
 
-🧠 6 AI Sessions, 25 AI Prompts
+🧠 10 AI Sessions, 46 AI Prompts
 
-GPT                      626 lines           █████████████████████████   100.00 % 
+GPT                      1,504 lines         █████████████████████████   100.00 % 
+Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.82% of written lines came from AI
-📚 Verbose Prompter — average 9,410 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 6.71% of changed lines were hand-edited
+🤖 AI-Driven — 93.77% of written lines came from AI
+📚 Verbose Prompter — average 7,487 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 46.5% of changed lines were hand-edited
 ```
 
 

@@ -38,7 +38,7 @@
 <summary>Эта неделя по WakaTime</summary>
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-205%20hrs%2018%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-205%20hrs%2020%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -46,32 +46,32 @@
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-JavaScript               5 hrs 6 mins        ████████████████████░░░░░   79.71 % 
-Python                   1 hr 17 mins        █████░░░░░░░░░░░░░░░░░░░░   20.14 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
+JavaScript               5 hrs 53 mins       ████████████████████░░░░░   81.92 % 
+Python                   1 hr 17 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.95 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 3 mins (47.6%)
+⏱ AI Coding Time: 3 hrs 5 mins (42.95%)
 
-✍️ 1,235 lines written by AI, 895 lines written by hand (57.98% AI-written)
+✍️ 1,240 lines written by AI, 994 lines written by hand (55.51% AI-written)
 
-🔤 807,672 Input Tokens, 116,370 Output Tokens
+🔤 847,843 Input Tokens, 117,580 Output Tokens
 
-💵 $16.81 Estimated AI Cost This Week
+💵 $17.14 Estimated AI Cost This Week
 
-🧠 13 AI Sessions, 48 AI Prompts
+🧠 14 AI Sessions, 49 AI Prompts
 
-GPT                      1,411 lines         █████████████████████████   100.00 % 
+GPT                      1,416 lines         █████████████████████████   100.00 % 
 Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 57.98% of written lines came from AI
-📚 Verbose Prompter — average 6,153 characters per prompt
+⚖️ Balanced with AI — 55.51% of written lines came from AI
+📚 Verbose Prompter — average 6,032 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🔍 Hands-On Reviewer — 62.78% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 64.11% of changed lines were hand-edited
 ```
 
 

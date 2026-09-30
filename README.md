@@ -38,7 +38,7 @@
 <summary>Эта неделя по WakaTime</summary>
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-205%20hrs%2020%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-211%20hrs%2019%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -46,32 +46,34 @@
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-JavaScript               5 hrs 53 mins       ████████████████████░░░░░   81.92 % 
-Python                   1 hr 17 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.95 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+JavaScript               11 hrs 17 mins      ████████████████████░░░░░   79.25 % 
+Python                   2 hrs 32 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.80 % 
+YAML                     21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.54 % 
+Text                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 5 mins (42.95%)
+⏱ AI Coding Time: 9 hrs 4 mins (63.7%)
 
-✍️ 1,240 lines written by AI, 994 lines written by hand (55.51% AI-written)
+✍️ 3,293 lines written by AI, 1,122 lines written by hand (74.59% AI-written)
 
-🔤 847,843 Input Tokens, 117,580 Output Tokens
+🔤 2,798,419 Input Tokens, 389,169 Output Tokens
 
-💵 $17.14 Estimated AI Cost This Week
+💵 $56.55 Estimated AI Cost This Week
 
-🧠 14 AI Sessions, 49 AI Prompts
+🧠 18 AI Sessions, 100 AI Prompts
 
-GPT                      1,416 lines         █████████████████████████   100.00 % 
+GPT                      4,051 lines         █████████████████████████   100.00 % 
 Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 55.51% of written lines came from AI
-📚 Verbose Prompter — average 6,032 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🔍 Hands-On Reviewer — 64.11% of changed lines were hand-edited
+🤖 AI-Driven — 74.59% of written lines came from AI
+📚 Verbose Prompter — average 3,265 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 39.98% of changed lines were hand-edited
 ```
 
 

@@ -46,34 +46,34 @@
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-JavaScript               20 hrs 42 mins      ██████████████████░░░░░░░   70.02 % 
-Python                   6 hrs 9 mins        █████░░░░░░░░░░░░░░░░░░░░   20.84 % 
-Other                    59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 % 
-Diff                     56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.16 % 
-YAML                     42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.39 % 
+JavaScript               15 hrs 18 mins      █████████████████░░░░░░░░   67.98 % 
+Python                   4 hrs 55 mins       █████░░░░░░░░░░░░░░░░░░░░   21.84 % 
+Other                    59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 % 
+Diff                     56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 % 
+YAML                     20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.53 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 26 hrs 42 mins (90.31%)
+⏱ AI Coding Time: 20 hrs 43 mins (92.0%)
 
-✍️ 13,181 lines written by AI, 798 lines written by hand (94.29% AI-written)
+✍️ 11,128 lines written by AI, 670 lines written by hand (94.32% AI-written)
 
-🔤 8,255,129 Input Tokens, 1,269,372 Output Tokens
+🔤 6,304,553 Input Tokens, 997,783 Output Tokens
 
-💵 $171.63 Estimated AI Cost This Week
+💵 $132.22 Estimated AI Cost This Week
 
-🧠 22 AI Sessions, 194 AI Prompts
+🧠 18 AI Sessions, 143 AI Prompts
 
-GPT                      15,851 lines        █████████████████████████   100.00 % 
+GPT                      13,216 lines        █████████████████████████   100.00 % 
 Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 94.29% of written lines came from AI
-📄 Detailed Prompter — average 621 characters per prompt
-🔁 Iterative Prompter — average 9 prompts per session
-🚀 High AI Trust — 6.58% of changed lines were hand-edited
+🤖 AI-Driven — 94.32% of written lines came from AI
+📄 Detailed Prompter — average 627 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
+🚀 High AI Trust — 6.69% of changed lines were hand-edited
 ```
 
 

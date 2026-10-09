@@ -46,34 +46,33 @@
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-JavaScript               11 hrs 16 mins      ████████████████░░░░░░░░░   65.06 % 
-Python                   4 hrs 49 mins       ███████░░░░░░░░░░░░░░░░░░   27.91 % 
-Other                    51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.94 % 
-YAML                     20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
-HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+JavaScript               7 hrs 15 mins       ███████████████░░░░░░░░░░   61.06 % 
+Python                   3 hrs 25 mins       ███████░░░░░░░░░░░░░░░░░░   28.83 % 
+Other                    51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.20 % 
+YAML                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.91 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 15 hrs 57 mins (92.1%)
+⏱ AI Coding Time: 10 hrs 51 mins (91.47%)
 
-✍️ 9,609 lines written by AI, 668 lines written by hand (93.5% AI-written)
+✍️ 6,896 lines written by AI, 251 lines written by hand (96.49% AI-written)
 
-🔤 5,138,629 Input Tokens, 823,878 Output Tokens
+🔤 3,042,895 Input Tokens, 568,900 Output Tokens
 
-💵 $106.63 Estimated AI Cost This Week
+💵 $72.39 Estimated AI Cost This Week
 
-🧠 17 AI Sessions, 114 AI Prompts
+🧠 15 AI Sessions, 80 AI Prompts
 
-GPT                      11,388 lines        █████████████████████████   100.00 % 
+GPT                      8,284 lines         █████████████████████████   100.00 % 
 Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 93.5% of written lines came from AI
-📄 Detailed Prompter — average 607 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 7.54% of changed lines were hand-edited
+🤖 AI-Driven — 96.49% of written lines came from AI
+📄 Detailed Prompter — average 590 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 5.12% of changed lines were hand-edited
 ```
 
 

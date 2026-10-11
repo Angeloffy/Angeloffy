@@ -46,33 +46,33 @@
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-Python                   2 hrs 47 mins       ████████████░░░░░░░░░░░░░   47.58 % 
-JavaScript               1 hr 52 mins        ████████░░░░░░░░░░░░░░░░░   31.92 % 
-Other                    51 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.60 % 
-YAML                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.90 % 
+JavaScript               1 hr 31 mins        █████████████░░░░░░░░░░░░   53.92 % 
+Python                   49 mins             ███████░░░░░░░░░░░░░░░░░░   29.25 % 
+Other                    20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.83 % 
+YAML                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 31 mins (94.41%)
+⏱ AI Coding Time: 2 hrs 42 mins (96.09%)
 
-✍️ 1,175 lines written by AI, 11 lines written by hand (99.07% AI-written)
+✍️ 931 lines written by AI, 11 lines written by hand (98.83% AI-written)
 
-🔤 998,025 Input Tokens, 146,580 Output Tokens
+🔤 471,325 Input Tokens, 80,138 Output Tokens
 
-💵 $25.39 Estimated AI Cost This Week
+💵 $11.07 Estimated AI Cost This Week
 
-🧠 5 AI Sessions, 25 AI Prompts
+🧠 4 AI Sessions, 18 AI Prompts
 
-GPT                      1,291 lines         █████████████████████████   100.00 % 
+GPT                      1,036 lines         █████████████████████████   100.00 % 
 Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.07% of written lines came from AI
-📝 Concise Prompter — average 465 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 1.45% of changed lines were hand-edited
+🤖 AI-Driven — 98.83% of written lines came from AI
+📄 Detailed Prompter — average 507 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 1.8% of changed lines were hand-edited
 ```
 
 

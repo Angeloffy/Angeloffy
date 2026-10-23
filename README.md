@@ -38,7 +38,7 @@
 <summary>Эта неделя по WakaTime</summary>
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-259%20hrs%2048%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-262%20hrs%2052%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -46,33 +46,33 @@
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-JavaScript               11 hrs 9 mins       ████████████████░░░░░░░░░   64.15 % 
-Python                   3 hrs 30 mins       █████░░░░░░░░░░░░░░░░░░░░   20.19 % 
-Other                    1 hr 51 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.72 % 
-YAML                     25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.43 % 
-Markdown                 18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.77 % 
+JavaScript               12 hrs 39 mins      ███████████████████░░░░░░   74.25 % 
+Python                   2 hrs 12 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.98 % 
+Other                    1 hr 51 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.90 % 
+Markdown                 18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.81 % 
+Diff                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 16 hrs 35 mins (95.45%)
+⏱ AI Coding Time: 16 hrs 27 mins (96.56%)
 
-✍️ 6,925 lines written by AI, 436 lines written by hand (94.08% AI-written)
+✍️ 5,707 lines written by AI, 537 lines written by hand (91.4% AI-written)
 
-🔤 6,482,210 Input Tokens, 991,736 Output Tokens
+🔤 5,887,575 Input Tokens, 943,254 Output Tokens
 
-💵 $136.80 Estimated AI Cost This Week
+💵 $108.82 Estimated AI Cost This Week
 
-🧠 13 AI Sessions, 159 AI Prompts
+🧠 13 AI Sessions, 164 AI Prompts
 
-GPT                      8,229 lines         █████████████████████████   100.00 % 
+GPT                      6,659 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 94.08% of written lines came from AI
-📝 Concise Prompter — average 242 characters per prompt
-🔁 Iterative Prompter — average 12 prompts per session
-🚀 High AI Trust — 5.24% of changed lines were hand-edited
+🤖 AI-Driven — 91.4% of written lines came from AI
+📝 Concise Prompter — average 221 characters per prompt
+🔁 Iterative Prompter — average 13 prompts per session
+🚀 High AI Trust — 8.04% of changed lines were hand-edited
 ```
 
 

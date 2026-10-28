@@ -16,8 +16,6 @@
 
 <br/>
 
-<h2 align="center">Технологии</h2>
-
 **Backend** - `Python` `Django` `Flask` `FastAPI` `PyTest` `Lua`
 
 **Данные** - `PostgreSQL` `MySQL` `SQLite` `MongoDB` `SQLAlchemy` `GraphQL`
